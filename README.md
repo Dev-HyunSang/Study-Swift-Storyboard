@@ -3,7 +3,7 @@
 Swift을 공부하는 프로젝트입니다.
 
 ## 강의 영상 🎞
-- Swift 야곰
+- [**Swift 야곰**](https://yagom.github.io/swift_basic/)
   - [Swift - 강좌소개](https://yagom.github.io/swift_basic/contents/00_introduction/) 2020.12.23 완료
   - [Swift - 이름짓기, 콘솔로그, 문자열 보간법](https://yagom.github.io/swift_basic/contents/00_introduction/console_log/) 2020.12.23 완료
   - [Swift - 상수와 변수](https://yagom.github.io/swift_basic/contents/01_let_var/) 2020.12.23 완료
