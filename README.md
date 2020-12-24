@@ -26,10 +26,10 @@ Swift을 공부하는 프로젝트입니다.
   - iOS for starter - Event-driven Programming 2020.12.24 완료
 
 ### To-Do List
-1. [X] Add Slider
-2. [X] Add 'HIT Button'
-3. [X] Recevie value changed events from the slider
-4. [X] Add 'RESET Button'
+1. [X] Add Slider 2020.12.24 완료
+2. [X] Add 'HIT Button' 2020.12.24 완료
+3. [X] Recevie value changed events from the slider 2020.12.24 완료
+4. [X] Add 'RESET Button' 2020.12.24 완료
 5. [ ] Add labels presenting information
 6. [ ] Generate the random number
 7. [ ] Compare the random number with input number
