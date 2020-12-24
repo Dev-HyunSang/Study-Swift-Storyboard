@@ -33,7 +33,7 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - [**Challenge**] SF Symbools 2020.12.25 완료
 - iOS for Starter - Auto Layout 2020.12.25 완료
 - iOS for Starter - [**Challenge**] Auto Layout 2020.12.25 완료
-- iOS for Starter - limitations of Storyboard
+- iOS for Starter - limitations of Storyboard 2020.12.25 완료
 
 ### To-Do List
 - [X] Add Slider 2020.12.24 완료  
