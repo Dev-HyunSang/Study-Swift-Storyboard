@@ -27,19 +27,19 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for starter - Adding label 2020.12.24 완료
 - iOS for starter - [Challenge] Changing label's font 2020
 .12.24 완료
-- iOS for starter - Importing Assets
+- iOS for starter - Importing Assets 2020.12.24 완료
 
 ### To-Do List
-[X] Add Slider 2020.12.24 완료  
-[X] Add 'HIT Button' 2020.12.24 완료  
-[X] Recevie value changed events from the slider 2020.12.24 완료  
-[X] Add 'RESET Button' 2020.12.24 완료  
-[ ] Add labels presenting information  
-[ ] Generate the random number  
-[ ] 7. Compare the random number with input number  
-[ ] 8. show alert  
-[ ] 9. Implement 'reset' feature  
-[ ] 10. App 'Credit' View  
+- [X] Add Slider 2020.12.24 완료  
+- [X] Add 'HIT Button' 2020.12.24 완료  
+- [X] Recevie value changed events from the slider 2020.12.24 완료  
+- [X] Add 'RESET Button' 2020.12.24 완료  
+- [ ] Add labels presenting information  
+- [ ] Generate the random number  
+- [ ] 7. Compare the random number with input number  
+- [ ] 8. show alert  
+- [ ] 9. Implement 'reset' feature  
+- [ ] 10. App 'Credit' View  
 
 ### Lessons2 
 **Topics**
