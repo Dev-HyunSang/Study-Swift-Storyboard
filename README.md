@@ -23,6 +23,7 @@ Swift을 공부하는 프로젝트입니다.
   - iOS for starter - Adding Slider and HIT Button 2020.12.24 완료
   - iOS for starter - Receiving Value Changed Event from the Slider 2020.12.24 완료
   - iOS for starter - Action and Outlets 2020.12.24 완료
+  - iOS for starter - Event-driven Programming 2020.12.24 완료
 
 ### To-Do List
 1. [ ] Add Slider
@@ -38,15 +39,22 @@ Swift을 공부하는 프로젝트입니다.
 
 ### Lessons2 
 **Topics**
-- UIKit & Storyboard
-- Adding UI Components on the storyboard
-- Adding Slider and HIT Button
-- Receiving value changed event from slider
-- Getting current value of slider
-- Event driven Programming
-- **Challenge** - Adding RESET Button
+- UIKit & Storyboard 2020.12.24 완료
+- Adding UI Components on the storyboard 2020.12.24 완료
+- Adding Slider and HIT Button 2020.12.24 완료
+- Receiving value changed event from slider 2020.12.24 완료
+- Getting current value of slider 2020.12.24 완료
+- Event driven Programming 2020.12.24 완료
+- **Challenge** - Adding RESET Button 2020.12.24 완료
 - Wrapping up
 
+**Challenge - Lesson2 : 1st**
+- Implement IBAction function
+- Name: touchUpResetButton(_ sender: UIButton)
+- Body: prints string - "touch up reset button"
+- Add a button on the top-right side of the view
+- Set button title : RESET
+- Connect 'Touch up inside' event of button to '**touchUpResetButton**' function
 
 ## Notion 📚
 - [Swift](https://www.notion.so/hyunsang0625/Swift-f1963564412f47e896b7f0f5e25b3d54)
