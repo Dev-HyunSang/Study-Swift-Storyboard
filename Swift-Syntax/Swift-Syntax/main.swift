@@ -120,4 +120,54 @@ print(someString)
 
 //someString = someCharacter // 오류 발생
 
+someString = """
+여러줄 문자열을
+사용할 수 있습니다.
+첫 줄에 겹따옴표 세 개,
+마지막 줄에 겹따옴표 세 개를
+사용하면 됩니다.
+"""
+print(someString)
 
+someString = """
+겹따옴표 세 개인 줄(첫줄, 끝줄)에서
+줄 바꿈을 하지 않으면 오류가 발생합니다.
+"""
+
+/*
+someString = """오류발생
+오류발생"""
+*/
+print(someString)
+
+/* Any, AnyObject, nil*/
+/*
+ Any - Swift의 모든 타입을 지칭하는 키워드
+ AnyObject - 모든 클래스 타입을 지칭하는 프로토콜
+ nil - 없음을 의미하는 키워드
+ */
+
+// MARK: - Any
+var someAny: Any = 100
+print(someAny)
+someAny = "어떤 타입도 수용가능합니다."
+print(someAny)
+someAny = 123.12
+print(someAny)
+
+// let someDouble: Double = someAny
+
+// MARK: - AnyObject
+
+class SomeClass {}
+
+var someAnyObject: AnyObject = SomeClass()
+
+//someAnyObject = 123.12
+
+// MARK: - nil
+
+// someAny = nil
+// someAnyObject = nil
+
+//
