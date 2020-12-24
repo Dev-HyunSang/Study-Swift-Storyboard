@@ -24,6 +24,7 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Event-driven Programming 2020.12.24 완료
 - iOS for Starter - Wrapping up 2020.12.24 완료
 - iOS for Starter - Lesson3 Introduction 2020.12.24 완료
+- iOS for starter - Adding label 2020.12.24 완료
 
 ### To-Do List
 [X] 1. Add Slider 2020.12.24 완료  
@@ -49,7 +50,7 @@ Swift을 공부하는 프로젝트입니다.
 - Wrapping up 2020.12.24 완료
 
 **Challenge - Lesson2 : 1st 완료**
-- Implement IBAction function
+- Implement IBAction function 
 - Name: touchUpResetButton(_ sender: UIButton)
 - Body: prints string - "touch up reset button"
 - Add a button on the top-right side of the view
@@ -58,8 +59,8 @@ Swift을 공부하는 프로젝트입니다.
 
 ### Lesson3
 **Topics**
-- Addding Labels
-- Challenge - Changing label's font
+- Addding Labels 2020.12.24 완료
+- Challenge - Changing label's font 2020.12.24 완료
 - Importing Assets
 - Styling UI
 - Challenge - SF Symbol
@@ -67,6 +68,7 @@ Swift을 공부하는 프로젝트입니다.
 - Challenge - AUto Layout
 - Limitation of Storyboard
 - Warning up
+
 
 ## Notion 📚
 - [Swift](https://www.notion.so/hyunsang0625/Swift-f1963564412f47e896b7f0f5e25b3d54)
