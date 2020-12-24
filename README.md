@@ -24,13 +24,16 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Event-driven Programming 2020.12.24 완료
 - iOS for Starter - Wrapping up 2020.12.24 완료
 - iOS for Starter - Lesson3 Introduction 2020.12.24 완료
-- iOS for starter - Adding label 2020.12.24 완료
-- iOS for starter - [Challenge] Changing label's font 2020
+- iOS for Starter - Adding label 2020.12.24 완료
+- iOS for Starter - [Challenge] Changing label's font 2020
 .12.24 완료
-- iOS for starter - Importing Assets 2020.12.24 완료
-- iOS for starter - Assets 2020.12.25 완료 / Happy Christmas🎄
-- iOS for starter - Styling UI 2020.12.25 완료
-- iOS for starter - [**Challenge**] SF Symbools 2020.12.25 완료
+- iOS for Starter - Importing Assets 2020.12.24 완료
+- iOS for Starter - Assets 2020.12.25 완료 / Happy Christmas🎄
+- iOS for Starter - Styling UI 2020.12.25 완료
+- iOS for Starter - [**Challenge**] SF Symbools 2020.12.25 완료
+- iOS for Starter - Auto Layout 2020.12.25 완료
+- iOS for Starter - [**Challenge**] Auto Layout 2020.12.25 완료
+- iOS for Starter - limitations of Storyboard
 
 ### To-Do List
 - [X] Add Slider 2020.12.24 완료  
