@@ -66,3 +66,58 @@ print(nickName)
 // 변수는 차후에 다시 다른 값을 할당해도 문제가 없지요
 nickName = "현상"
 print(nickName)
+
+/* 기본 데이터 타입 */
+
+// Swift의 기본 데이터 타입
+// Bool, Int, Uint, Float, Character, String
+
+// Bool
+var someBool: Bool = true
+print(someBool)
+someBool = false
+print(someBool)
+// someBool = 0 / Swift에서는 사용할 수 없음. Bool => Only true, false
+// someBool = 1
+
+// Int / 64비트 정수 양수와 음수, 0 포함
+var someInt: Int = -100
+print(someInt)
+// someInt = 100.1 / 실수를 포함을 할 수 없음 Int => Only 정수, 음수
+
+// UInt / 양의 정수 => +만 정수로 선언할 수 있음.
+var someUInt: UInt = 100
+print(someUInt)
+// someUInt = -100
+// someUInt = someInt
+
+// Float / 부동소수형 32비트
+var someFloat: Float = 3.14
+print(someFloat)
+someFloat = 3 // 정수를 넣어도 실수는 선언이 됨.
+print(someFloat)
+
+// Double
+var someDouble: Double = 3.14
+print(someDouble)
+someDouble = 3
+print(someDouble)
+// someDouble = someFloat // Double => someFloat X
+
+// Character
+var someCharacter: Character = "🇰🇷"
+someCharacter = "😆"
+//someCharacter = "가"
+//someCharacter = "A"
+//someCharacter = "하하하" / 오류 발생 => Character는 하나의 문자만 받을 수 있음 => Character이 아닌 String
+print(someCharacter)
+
+// String
+var someString: String = "하하하😆"
+print(someString)
+someString = someString + "웃으면 복이 와요"
+print(someString)
+
+//someString = someCharacter // 오류 발생
+
+
