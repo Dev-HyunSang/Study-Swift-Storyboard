@@ -170,4 +170,13 @@ var someAnyObject: AnyObject = SomeClass()
 // someAny = nil
 // someAnyObject = nil
 
-//
+/* 컬렉션 타입 */
+/* Array, Dictionary, Set*/
+
+/*
+Array - 순서 있는 리스트 컬렉션
+ Dictionary - 키와 값의 쌍으로 이루어진 컬렉션
+ Set - 순서가 없고, 멤버가 유일한 컬렉션
+ */
+
+
