@@ -18,11 +18,12 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Lessons 2 Introduction 2020.12.24 완료
 - iOS for Starter - UIKit and Storyboard 2020.12.24 완료
 - iOS for Starter - Adding UI Components on the Storyboard 2020.12.24 완료
-- iOS for starter - Adding Slider and HIT Button 2020.12.24 완료
-- iOS for starter - Receiving Value Changed Event from the Slider 2020.12.24 완료
-- iOS for starter - Action and Outlets 2020.12.24 완료
-- iOS for starter - Event-driven Programming 2020.12.24 완료
-- iOS for starter - Wrapping up 2020.12.24 완료
+- iOS for Starter - Adding Slider and HIT Button 2020.12.24 완료
+- iOS for Starter - Receiving Value Changed Event from the Slider 2020.12.24 완료
+- iOS for Starter - Action and Outlets 2020.12.24 완료
+- iOS for Starter - Event-driven Programming 2020.12.24 완료
+- iOS for Starter - Wrapping up 2020.12.24 완료
+- iOS for Starter - Lesson3 Introduction 2020.12.24 완료
 
 ### To-Do List
 [X] 1. Add Slider 2020.12.24 완료  
