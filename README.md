@@ -34,13 +34,14 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Auto Layout 2020.12.25 완료
 - iOS for Starter - [**Challenge**] Auto Layout 2020.12.25 완료
 - iOS for Starter - limitations of Storyboard 2020.12.25 완료
+- iOS for Starter - Wrapping up 2020.12.25 완료
 
 ### To-Do List
 - [X] Add Slider 2020.12.24 완료  
 - [X] Add 'HIT Button' 2020.12.24 완료  
 - [X] Recevie value changed events from the slider 2020.12.24 완료  
 - [X] Add 'RESET Button' 2020.12.24 완료  
-- [ ] Add labels presenting information  
+- [X] Add labels presenting information  
 - [ ] Generate the random number  
 - [ ] 7. Compare the random number with input number  
 - [ ] 8. show alert  
@@ -70,13 +71,13 @@ Swift을 공부하는 프로젝트입니다.
 **Topics**
 - Addding Labels 2020.12.24 완료
 - Challenge - Changing label's font 2020.12.24 완료
-- Importing Assets
-- Styling UI
-- Challenge - SF Symbol
-- Auto Layout
-- Challenge - AUto Layout
-- Limitation of Storyboard
-- Warning up
+- Importing Assets 2020.12.24 완료
+- Styling UI 2020.12.25 완료
+- Challenge - SF Symbol 2020.12.25 완료
+- Auto Layout 2020.12.25 완료
+- Challenge - AUto Layout 2020.12.25 완료
+- Limitation of Storyboard 2020.12.25 완료
+- Warning up 2020.12.25
 
 
 ## Notion 📚
