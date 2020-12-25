@@ -35,6 +35,9 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - [**Challenge**] Auto Layout 2020.12.25 완료
 - iOS for Starter - limitations of Storyboard 2020.12.25 완료
 - iOS for Starter - Wrapping up 2020.12.25 완료
+- iOS for Starter - Comments 2020.12.25 완료
+- iOS for Starter - Doing Someting : Functions 2020.12.25 완료
+- iOS for starter -[Challenge] Implementing Function
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
