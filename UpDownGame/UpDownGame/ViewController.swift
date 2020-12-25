@@ -30,11 +30,35 @@ class ViewController: UIViewController {
     // 이벤트에 반응
     @IBAction func sliderValueChanged(_ sender: UISlider) {
         print(sender.value)
+        let integerValue: Int = Int(sender.value)
+        SliderValueLabel.text = String(integerValue)
     }
     
     //
     @IBAction func touchUpHitButton(_ sender: UIButton) {
         print(slider.value)
+        let hitValue: Int = Int(slider.value) // 소수점 제거
+        slider.value = Float(hitValue) // slider는 실수만 받음. slider only Float
+        
+        tryCount = tryCount + 1
+        tryCountLabel.text = "\(tryCount) / 5"
+        
+        
+        if randomValue == hitValue {
+            print("YOU HIT!!")
+            reset()
+            return
+        } else if  tryCount >= 5 {
+            print("You Lose...")
+            reset()
+            return
+        } else if randomValue > hitValue {
+            slider.minimumValue = Float(hitValue)
+            minimumValueLable.text = String(hitValue)
+        } else {
+            slider.maximumValue = Float(hitValue)
+            maximumValueLable.text = String(hitValue)
+        }
     }
     
     @IBAction func touchUpResetButton(_sender: UIButton) {
