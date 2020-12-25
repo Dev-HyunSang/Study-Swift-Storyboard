@@ -37,12 +37,12 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Wrapping up 2020.12.25 완료
 
 ### To-Do List
-- [X] Add Slider 2020.12.24 완료  
-- [X] Add 'HIT Button' 2020.12.24 완료  
-- [X] Recevie value changed events from the slider 2020.12.24 완료  
-- [X] Add 'RESET Button' 2020.12.24 완료  
-- [X] Add labels presenting information  
-- [ ] Generate the random number  
+- [X] 1. Add Slider 2020.12.24 완료  
+- [X] 2. Add 'HIT Button' 2020.12.24 완료  
+- [X] 3. Recevie value changed events from the slider 2020.12.24 완료  
+- [X] 4. Add 'RESET Button' 2020.12.24 완료  
+- [X] 5. Add labels presenting information  
+- [ ] 6. Generate the random number  
 - [ ] 7. Compare the random number with input number  
 - [ ] 8. show alert  
 - [ ] 9. Implement 'reset' feature  
