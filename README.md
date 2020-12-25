@@ -37,7 +37,12 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Wrapping up 2020.12.25 완료
 - iOS for Starter - Comments 2020.12.25 완료
 - iOS for Starter - Doing Someting : Functions 2020.12.25 완료
-- iOS for starter -[Challenge] Implementing Function
+- iOS for Starter -[Challenge] Implementing Function
+- iOS for Starter - Values : Variables 2020.12.25 완료
+- iOS for Starter - Declaring variables 2020.12.25 완료
+- iOS for Starter - [Challenge] Declaring variables 2020.12.25 완료
+- iOS for Starter - Random Numbers 2020.12.25 완료
+- iOS for Starter - Lessons4 Wrapping Up 2020.12.25 완료
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
@@ -82,9 +87,18 @@ Swift을 공부하는 프로젝트입니다.
 - Limitation of Storyboard 2020.12.25 완료
 - Warning up 2020.12.25
 
+## Lesson4
+**Topics**
+- Comments 2020.12.25 완료
+- Doing Someting : Functions 2020.12.25 완료
+- Challenge - Importing Function 2020.12.25 완료
+- Values : Variables 2020.12.25 완료
+- Declaring variables 2020.12.25 완료
+- Challenge - Declaring variables 2020.12.25 완료
+- Random numbers 2020.12.25 완료
+- Restartingthe Game 2020.12.25 완료
 
 ## Notion 📚
-- [Swift](https://www.notion.so/hyunsang0625/Swift-f1963564412f47e896b7f0f5e25b3d54)
-  - [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
-  - [상수와 변수](https://www.notion.so/hyunsang0625/442580b3e09147bfabc8cc55fa5f852d)
-  - [기본 데이터 타입](https://www.notion.so/hyunsang0625/b08cb2733def41aa926e5ac5bb7ccbaa)
+- [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
+- [상수와 변수](https://www.notion.so/hyunsang0625/442580b3e09147bfabc8cc55fa5f852d)
+- [기본 데이터 타입](https://www.notion.so/hyunsang0625/b08cb2733def41aa926e5ac5bb7ccbaa)
