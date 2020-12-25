@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         slider.setThumbImage(#imageLiteral(resourceName: "slider_thumb"), for: .normal)
+        reset()
     }
 
     // 이벤트에 반응
@@ -32,6 +33,11 @@ class ViewController: UIViewController {
     
     @IBAction func touchUpResetButton(_sender: UIButton) {
         print("touch up reset button")
+        reset()
+    }
+    
+    func reset(){
+        print("reset!")
     }
 }
 

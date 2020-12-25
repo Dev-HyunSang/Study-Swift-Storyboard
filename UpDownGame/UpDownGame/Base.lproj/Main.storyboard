@@ -24,8 +24,8 @@
                                     <action selector="sliderValueChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="ZBm-BO-hiR"/>
                                 </connections>
                             </slider>
-                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l2O-Qb-Mug">
-                                <rect key="frame" x="423" y="238" width="55" height="55"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l2O-Qb-Mug">
+                                <rect key="frame" x="420.5" y="238" width="55" height="55"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" image="checkmark.seal.fill" catalog="system">
                                     <preferredSymbolConfiguration key="preferredSymbolConfiguration" configurationType="font" scale="large">
@@ -60,14 +60,14 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iTn-cC-0Wi">
-                                <rect key="frame" x="64" y="197" width="21" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iTn-cC-0Wi">
+                                <rect key="frame" x="64" y="196.5" width="21" height="21"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RUh-N0-Ggp">
-                                <rect key="frame" x="811" y="197" width="21" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RUh-N0-Ggp">
+                                <rect key="frame" x="811" y="196.5" width="21" height="21"/>
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -93,6 +93,8 @@
                         <color key="backgroundColor" red="0.048498265445232391" green="0.90505307912826538" blue="0.75204950571060181" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="zgb-Y1-tTa" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="02Q-O4-JMn"/>
+                            <constraint firstItem="RUh-N0-Ggp" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="75s-Vo-AA1"/>
+                            <constraint firstItem="iTn-cC-0Wi" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="G7T-7l-aRJ"/>
                             <constraint firstItem="YNY-e2-09b" firstAttribute="centerY" secondItem="yi5-2I-MqP" secondAttribute="centerY" id="I02-Ko-uLI"/>
                             <constraint firstItem="zgb-Y1-tTa" firstAttribute="leading" secondItem="iTn-cC-0Wi" secondAttribute="trailing" constant="15" id="Ihu-RD-AWQ"/>
                             <constraint firstItem="l2O-Qb-Mug" firstAttribute="top" secondItem="zgb-Y1-tTa" secondAttribute="bottom" constant="16" id="JBD-d0-dKh"/>
@@ -109,6 +111,7 @@
                             <constraint firstItem="teq-oS-emv" firstAttribute="centerY" secondItem="yi5-2I-MqP" secondAttribute="centerY" id="oNV-rj-FLP"/>
                             <constraint firstItem="o3D-CF-GSE" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="r3J-8P-Eta"/>
                             <constraint firstItem="YNY-e2-09b" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="vcj-qq-894"/>
+                            <constraint firstItem="l2O-Qb-Mug" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="zGB-cd-tGN"/>
                         </constraints>
                     </view>
                     <connections>
