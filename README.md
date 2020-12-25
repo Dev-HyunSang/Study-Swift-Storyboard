@@ -25,7 +25,7 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Wrapping up 2020.12.24 완료
 - iOS for Starter - Lesson3 Introduction 2020.12.24 완료
 - iOS for Starter - Adding label 2020.12.24 완료
-- iOS for Starter - [Challenge] Changing label's font 2020
+- iOS for Starter - [**Challenge**] Changing label's font 2020
 .12.24 완료
 - iOS for Starter - Importing Assets 2020.12.24 완료
 - iOS for Starter - Assets 2020.12.25 완료 / Happy Christmas🎄
@@ -37,12 +37,19 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Wrapping up 2020.12.25 완료
 - iOS for Starter - Comments 2020.12.25 완료
 - iOS for Starter - Doing Someting : Functions 2020.12.25 완료
-- iOS for Starter -[Challenge] Implementing Function
+- iOS for Starter -[**Challenge**] Implementing Function
 - iOS for Starter - Values : Variables 2020.12.25 완료
 - iOS for Starter - Declaring variables 2020.12.25 완료
-- iOS for Starter - [Challenge] Declaring variables 2020.12.25 완료
+- iOS for Starter - [**Challenge**] Declaring variables 2020.12.25 완료
 - iOS for Starter - Random Numbers 2020.12.25 완료
 - iOS for Starter - Lessons4 Wrapping Up 2020.12.25 완료
+- iOS for Starter - Lessons5 Introduction 2020.12.25 완료
+- iOS for Starter - Changing Value to another type 2020.12.25 완료
+- iOS for Starter - String Interpolation 2020.12.25 완료
+- iOS for Starter - Comparing Values 2020.12.25 완료
+- iOS for Starter - [**Challenge**] If
+- iOS for Starter - Terminating functions : return 2020.12.25 완료
+- iOS for Starter - Conditional execution 2020.12.25 완료
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
@@ -87,7 +94,7 @@ Swift을 공부하는 프로젝트입니다.
 - Limitation of Storyboard 2020.12.25 완료
 - Warning up 2020.12.25
 
-## Lesson4
+### Lesson4
 **Topics**
 - Comments 2020.12.25 완료
 - Doing Someting : Functions 2020.12.25 완료
