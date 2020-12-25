@@ -102,3 +102,7 @@ Swift을 공부하는 프로젝트입니다.
 - [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
 - [상수와 변수](https://www.notion.so/hyunsang0625/442580b3e09147bfabc8cc55fa5f852d)
 - [기본 데이터 타입](https://www.notion.so/hyunsang0625/b08cb2733def41aa926e5ac5bb7ccbaa)
+- [Asset Types](https://www.notion.so/hyunsang0625/Asset-Types-29549bd2c016474b92e77a15c6af9d03)
+- [Auto Layout](https://www.notion.so/hyunsang0625/Auto-Layout-c6350953b510480b90145f9094d01b84)
+- [Variabels & Constants](https://www.notion.so/hyunsang0625/Variabels-Constants-3839d45ea0ce43889dafba812bb4ef50)
+- [Range Operators](https://www.notion.so/hyunsang0625/Range-Operators-89dcafcd26d942d8a2e4d2bef8ae2e3f)
