@@ -50,6 +50,7 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - [**Challenge**] If
 - iOS for Starter - Terminating functions : return 2020.12.25 완료
 - iOS for Starter - Conditional execution 2020.12.25 완료
+- iOS for Starter - Showing Alerts 2020.12.25 완료
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
