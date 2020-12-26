@@ -34,7 +34,19 @@ class ViewController: UIViewController {
         SliderValueLabel.text = String(integerValue)
     }
     
-    //
+    func showAlert(message: String) {
+        let alert = UIAlertController(title: nil, message: message,preferredStyle: .alert)
+        
+        let okAction = UIAlertAction(title: "OK", style: .default) {
+            (action) in self.reset()
+        }
+        
+        alert.addAction(okAction)
+        present(alert,
+                animated: true,
+                completion: nil )
+    }
+    
     @IBAction func touchUpHitButton(_ sender: UIButton) {
         print(slider.value)
         let hitValue: Int = Int(slider.value) // 소수점 제거
@@ -45,11 +57,13 @@ class ViewController: UIViewController {
         
         
         if randomValue == hitValue {
-            print("YOU HIT!!")
+            //print("YOU HIT!!")
+            showAlert(message: "YOU HIT!")
             reset()
             return
         } else if  tryCount >= 5 {
-            print("You Lose...")
+            //print("You Lose...")
+            showAlert(message: "You lose...")
             reset()
             return
         } else if randomValue > hitValue {
