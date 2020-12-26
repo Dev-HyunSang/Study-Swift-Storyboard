@@ -51,6 +51,7 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Terminating functions : return 2020.12.25 완료
 - iOS for Starter - Conditional execution 2020.12.25 완료
 - iOS for Starter - Showing Alerts 2020.12.25 완료
+- iOS for Starter - Lessons5 Wrapping Up 2020.12.25 완료
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
@@ -65,7 +66,6 @@ Swift을 공부하는 프로젝트입니다.
 - [ ] 10. App 'Credit' View  
 
 ### Lessons2 
-**Topics**
 - UIKit & Storyboard 2020.12.24 완료
 - Adding UI Components on the storyboard 2020.12.24 완료
 - Adding Slider and HIT Button 2020.12.24 완료
@@ -75,16 +75,7 @@ Swift을 공부하는 프로젝트입니다.
 - **Challenge** - Adding RESET Button 2020.12.24 완료
 - Wrapping up 2020.12.24 완료
 
-**Challenge - Lesson2 : 1st 완료**
-- Implement IBAction function 
-- Name: touchUpResetButton(_ sender: UIButton)
-- Body: prints string - "touch up reset button"
-- Add a button on the top-right side of the view
-- Set button title : RESET
-- Connect 'Touch up inside' event of button to '**touchUpResetButton**' function
-
 ### Lesson3
-**Topics**
 - Addding Labels 2020.12.24 완료
 - Challenge - Changing label's font 2020.12.24 완료
 - Importing Assets 2020.12.24 완료
@@ -96,7 +87,6 @@ Swift을 공부하는 프로젝트입니다.
 - Warning up 2020.12.25
 
 ### Lesson4
-**Topics**
 - Comments 2020.12.25 완료
 - Doing Someting : Functions 2020.12.25 완료
 - Challenge - Importing Function 2020.12.25 완료
@@ -105,6 +95,17 @@ Swift을 공부하는 프로젝트입니다.
 - Challenge - Declaring variables 2020.12.25 완료
 - Random numbers 2020.12.25 완료
 - Restartingthe Game 2020.12.25 완료
+
+### Lesson5 
+- iOS for Starter - Lessons5 Introduction 2020.12.25 완료
+- iOS for Starter - Changing Value to another type 2020.12.25 완료
+- iOS for Starter - String Interpolation 2020.12.25 완료
+- iOS for Starter - Comparing Values 2020.12.25 완료
+- iOS for Starter - [**Challenge**] If
+- iOS for Starter - Terminating functions : return 2020.12.25 완료
+- iOS for Starter - Conditional execution 2020.12.25 완료
+- iOS for Starter - Showing Alerts 2020.12.25 완료
+- iOS for Starter - Lessons5 Wrapping Up 2020.12.25 완료
 
 ## Notion 📚
 - [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
