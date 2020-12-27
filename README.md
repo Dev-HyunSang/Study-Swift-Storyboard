@@ -52,6 +52,17 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Conditional execution 2020.12.25 완료
 - iOS for Starter - Showing Alerts 2020.12.25 완료
 - iOS for Starter - Lessons5 Wrapping Up 2020.12.25 완료
+- iOS for Starter - Lessons6 Introduction 2020.12.26 완료
+- iOS for Starter - Creating a New Scene 2020.12.26 완료
+- iOS for Starter - Composing Credit View 2020.12.27 완료
+- iOS for Starter - Storyboard Segue 2020.12.27 완료
+- iOS for Starter - Writing a Close Button Method 2020.12.27 완료
+- iOS for Starter - [**Challenge**] Connecting the Button Action 2020.12.27 완료
+- iOS for Starter - Running the App on my Devices 2020.12.27 완료
+- iOS for Starter - Where to Go From Here? 2020.12.27 완료
+- iOS for Starter - Lessons6 Wrapping Up 2020.12.27 완료
+
+**최종 완료: 2020.12.27**
 
 ### To-Do List
 - [X] 1. Add Slider 2020.12.24 완료  
@@ -59,10 +70,10 @@ Swift을 공부하는 프로젝트입니다.
 - [X] 3. Recevie value changed events from the slider 2020.12.24 완료  
 - [X] 4. Add 'RESET Button' 2020.12.24 완료  
 - [X] 5. Add labels presenting information  
-- [ ] 6. Generate the random number  
-- [ ] 7. Compare the random number with input number  
-- [ ] 8. show alert  
-- [ ] 9. Implement 'reset' feature  
+- [X] 6. Generate the random number  
+- [X] 7. Compare the random number with input number  
+- [X] 8. show alert  
+- [X] 9. Implement 'reset' feature  
 - [ ] 10. App 'Credit' View  
 
 ### Lessons2 
@@ -106,6 +117,17 @@ Swift을 공부하는 프로젝트입니다.
 - iOS for Starter - Conditional execution 2020.12.25 완료
 - iOS for Starter - Showing Alerts 2020.12.25 완료
 - iOS for Starter - Lessons5 Wrapping Up 2020.12.25 완료
+
+### Lesson6
+- Creating a New Source
+- Composing Credit View
+- [**Challenge**] - Adding Constraints
+- Storyboard Segus
+- Writing a Close Button Method
+- [**Challenge**] - Connecting the Button Action
+- Running the App on My Devices
+- Where to Go from Here?
+- Wrapping up
 
 ## Notion 📚
 - [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
