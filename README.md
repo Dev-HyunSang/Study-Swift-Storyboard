@@ -10,6 +10,8 @@ Swift을 공부하는 프로젝트입니다.
 - [Swift - Any, AnyObject, nil](https://www.youtube.com/watch?v=1QV4-B5ibd4&list=PLz8NH7YHUj_ZmlgcSETF51Z9GSSU6Uioy&index=5) 2020.12.24 완료
 
 ## [**iOS for Starter📱-야곰**](https://www.youtube.com/playlist?list=PLz8NH7YHUj_ZF2oja5rP4Sow5KK1zf2yk)
+![Dev](./images/IMG_3039)
+
 - iOS App Programming for Starter - Introduction 2020.12.24 완료
 - iOS App Programming for Starter - Project Overview 2020.12.24 완료
 - iOS App Programming for Starter - Lessons 1 Introduction 2020.12.24 완료
