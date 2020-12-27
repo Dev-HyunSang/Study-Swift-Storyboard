@@ -35,7 +35,7 @@ class ViewController: UIViewController {
     }
     
     func showAlert(message: String) {
-        let alert = UIAlertController(title: nil, message: message,preferredStyle: .alert)
+        let alert = UIAlertController(title: nil , message: message,preferredStyle: .alert)
         
         let okAction = UIAlertAction(title: "OK", style: .default) {
             (action) in self.reset()
