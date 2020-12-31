@@ -37,7 +37,7 @@ class MainViewController: UIViewController {
         animationView.center = view.center
         
         
-        // 애니메이션 실행
+        // 애니메이션 이후 실행
         animationView.play{ (finish) in
             print("애니메이션이 끝났다.")
             
