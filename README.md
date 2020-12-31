@@ -84,6 +84,7 @@ Swift을 공부하는 프로젝트입니다.
 - 아이폰 개발 시작하기 #2 2020.12.30 완료
 - [아이폰 개발 시작하기 #3 iOS 로티 애니메이션, CocoaPods, lottieAnimation 2020.12.30 완료](./NiceApp)
 - [아이폰 개발 시작하기 #4 스택 자료 구조, navigation controller, stack view 2020.12.30 완료](./NavigationViewController_tutorial)
+- [아이폰 개발 시작하기 #5 WebView, QRCodeReader Library 2020.12.31 완료](./QRCodeTutorial)
 
 ## Notion 📚
 - [이름짓기, 콘솔로그, 문자열 보간법](https://www.notion.so/hyunsang0625/3b2c2bc5199e48608743a40fed9e02a7)
