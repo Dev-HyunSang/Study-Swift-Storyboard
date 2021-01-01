@@ -56,20 +56,31 @@
 
 - (void)QRCodeReaderLaunch {
     NSLog(@"MainViewController - QRCodeReaderLaunch() called");
+    [self presentViewController: QRCodeVC animated:YES completion:NULL];
 }
 
 
 #pragma mark - QRCodeReader Delegate Methods
 
+// QRCode Recognition Successful
 - (void)reader:(QRCodeReaderViewController *)reader didScanResult:(NSString *)result
 {
+    NSLog(@"QR코드 인식 성공!");
+    NSURL *websiteUrl = [NSURL URLWithString: result];
+    
+    NSURLRequest *urlRequest = [NSURLRequest requestWithURL: websiteUrl];
+    
+    [_webView loadRequest: urlRequest];
+    
   [self dismissViewControllerAnimated:YES completion:^{
-    NSLog(@"%@", result);
+    NSLog(@"RQ코드 결과: %@", result);
   }];
 }
 
+// QRCode recognition Failed and Cancel
 - (void)readerDidCancel:(QRCodeReaderViewController *)reader
 {
+    NSLog(@"QR코드 인식 취소");
   [self dismissViewControllerAnimated:YES completion:NULL];
 }
 
