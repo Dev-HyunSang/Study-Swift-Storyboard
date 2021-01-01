@@ -21,7 +21,13 @@
     NSURLRequest *urlRequest = [NSURLRequest requestWithURL: websiteUrl];
     
     [_webView loadRequest: urlRequest];
+    
+    [_QRCodeBtn addTarget:self action:@selector(QRCodeReaderLaunch) forControlEvents:UIControlEventTouchUpInside];
+    
 }
 
+- (void)QRCodeReaderLaunch {
+    NSLog(@"MainViewController - QRCodeReaderLaunch() called");
+}
 
 @end

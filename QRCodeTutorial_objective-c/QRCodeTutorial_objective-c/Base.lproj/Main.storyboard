@@ -24,17 +24,30 @@
                                     <wkPreferences key="preferences"/>
                                 </wkWebViewConfiguration>
                             </wkWebView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XCd-F0-AYi">
+                                <rect key="frame" x="132" y="762" width="150" height="50"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="JlJ-hd-l22"/>
+                                    <constraint firstAttribute="width" constant="150" id="dUK-WE-fal"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="QR코드 버튼 "/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="XCd-F0-AYi" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="1A1-rw-tqV"/>
                             <constraint firstItem="orT-oQ-GRj" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="CaJ-Oz-Vcs"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="XCd-F0-AYi" secondAttribute="bottom" constant="50" id="DZI-zJ-Fvl"/>
                             <constraint firstItem="orT-oQ-GRj" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Igs-Wa-ylh"/>
                             <constraint firstItem="orT-oQ-GRj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="N0m-zc-j2T"/>
                             <constraint firstItem="orT-oQ-GRj" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="cP4-Ku-aBg"/>
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="QRCodeBtn" destination="XCd-F0-AYi" id="QVN-hZ-09g"/>
                         <outlet property="webView" destination="orT-oQ-GRj" id="hfD-8B-EOB"/>
                     </connections>
                 </viewController>

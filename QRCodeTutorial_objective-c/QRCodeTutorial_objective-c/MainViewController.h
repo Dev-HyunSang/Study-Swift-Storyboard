@@ -11,6 +11,7 @@
 @interface MainViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet WKWebView *webView;
+@property (weak, nonatomic) IBOutlet UIButton *QRCodeBtn;
 
 
 @end
