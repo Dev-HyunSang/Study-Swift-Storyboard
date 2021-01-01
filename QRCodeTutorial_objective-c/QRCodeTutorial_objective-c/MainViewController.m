@@ -24,7 +24,7 @@
     QRCodeReader *reader = [QRCodeReader readerWithMetadataObjectTypes:@[AVMetadataObjectTypeQRCode]];
 
     // Instantiate the view controller
-    QRCodeVC = [QRCodeReaderViewController readerWithCancelButtonTitle:@"Cancel" codeReader:_reader startScanningAtLoad:YES showSwitchCameraButton:YES showTorchButton:YES];
+    QRCodeVC = [QRCodeReaderViewController readerWithCancelButtonTitle:@"Cancel" codeReader:reader startScanningAtLoad:YES showSwitchCameraButton:YES showTorchButton:YES];
 
     // Set the presentation style
     QRCodeVC.modalPresentationStyle = UIModalPresentationFormSheet;
@@ -33,7 +33,7 @@
     QRCodeVC.delegate = self;
 
     // Or use blocks
-    [_reader setCompletionWithBlock:^(NSString *resultAsString) {
+    [reader setCompletionWithBlock:^(NSString *resultAsString) {
       NSLog(@"%@", resultAsString);
     }];
     
