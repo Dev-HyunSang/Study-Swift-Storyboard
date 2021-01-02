@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A498E4F5259FF89F00787694 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A498E4F4259FF89F00787694 /* MainViewController.swift */; };
 		F2060E6923AFC5E60063C3E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2060E6823AFC5E60063C3E0 /* AppDelegate.swift */; };
 		F2060E6B23AFC5E60063C3E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2060E6A23AFC5E60063C3E0 /* SceneDelegate.swift */; };
 		F2060E6D23AFC5E60063C3E0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2060E6C23AFC5E60063C3E0 /* LoginViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A498E4F4259FF89F00787694 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		F2060E6523AFC5E60063C3E0 /* NavigationViewController_tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationViewController_tutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2060E6823AFC5E60063C3E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2060E6A23AFC5E60063C3E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				F2060E7C23AFC9900063C3E0 /* RegisterViewController.swift */,
 				F2060E6C23AFC5E60063C3E0 /* LoginViewController.swift */,
+				A498E4F4259FF89F00787694 /* MainViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				F2060E6923AFC5E60063C3E0 /* AppDelegate.swift in Sources */,
 				F2060E6B23AFC5E60063C3E0 /* SceneDelegate.swift in Sources */,
 				F2060E7D23AFC9900063C3E0 /* RegisterViewController.swift in Sources */,
+				A498E4F5259FF89F00787694 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
